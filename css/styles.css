@@ -75,6 +75,16 @@ main{
     display: flex;
     justify-content: space-evenly;
     padding: 0;
+    align-items: center;
+}
+
+.project li{
+    display: flex;
+    align-items: center;
+}
+
+.project a{
+    text-align: center;
 }
 
 .project img{
@@ -168,6 +178,10 @@ footer div img{
         padding-right: 20px;
     }
 
+    .projectInfo li{
+        font-size: 24px;
+    }
+
     footer{
         font-size: 1.3em;
         height: 80px;
@@ -246,6 +260,10 @@ footer div img{
     .projectInfo{
         padding-left: 20px;
         padding-right: 20px;
+    }
+
+    .projectInfo li{
+        font-size: 22px;
     }
 
     footer{
