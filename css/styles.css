@@ -120,6 +120,10 @@ footer div img{
         flex-direction: column;
     }
 
+    #about h2{
+        text-align: center;
+    }
+
     .presentacion{
         font-size: 25px;
         padding-left: 30px;
@@ -146,6 +150,7 @@ footer div img{
 
     #projects h2{
         text-align: center;
+        font-size: 35px;
     }
 
     #projects img{
@@ -210,6 +215,10 @@ footer div img{
     #projects{
         padding: 30px;
         margin-bottom: 80px;
+    }
+
+    #projects h2{
+        font-size: 35px;
     }
 
     #projects h2{
